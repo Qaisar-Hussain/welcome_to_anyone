@@ -1,0 +1,10 @@
+#div{
+    display: flex;
+    width: 60%;
+    text-align: left;
+    font-size: 4rem;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
