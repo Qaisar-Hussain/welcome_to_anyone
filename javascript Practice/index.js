@@ -1,4 +1,4 @@
-let arr = ["","W","E","L","C","O","M", "E"," ","T","O"," ","K","A","R","A","C","H","I"
+let arr = ["","","","W","E","L","C","O","M", "E"," ","T","O"," ","K","A","R","A","C","H","I"
 ];
 
 let count = 0;
@@ -22,4 +22,4 @@ function welcomeFun() {
   }
 }
 let interval = setInterval(welcomeFun, 250);
-setTimeout(interval,5000);
+
